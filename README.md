@@ -1,2 +1,3 @@
 # TheBoxGame
-This is a simple java game that created using single while loop
+This is a simple java game that created using a single while loop
+
